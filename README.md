@@ -1,5 +1,4 @@
 # hello-world
 Just another repository
 
-Hello
-Just a random student
+Hello,just a random student
